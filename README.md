@@ -14,7 +14,7 @@ This is a page that I made in my beginnings as a programmer, this is a page of a
 </div>
 
 ## ✨ Visit Page
-- https://bondelic.netlify.app
+- https://k3ury99.github.io/Bondelic/index.html
 
 > [!TIP]
 When I made this website I was starting this world of programming, I was only 15 years old!
